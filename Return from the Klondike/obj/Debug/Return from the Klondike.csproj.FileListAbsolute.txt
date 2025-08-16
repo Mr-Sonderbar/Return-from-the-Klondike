@@ -1,0 +1,10 @@
+H:\LF05 - Programmierung\repos\Return from the Klondike\Return from the Klondike\obj\Debug\Return from the Klondike.csproj.AssemblyReference.cache
+H:\LF05 - Programmierung\repos\Return from the Klondike\Return from the Klondike\obj\Debug\Return_from_the_Klondike.Form1.resources
+H:\LF05 - Programmierung\repos\Return from the Klondike\Return from the Klondike\obj\Debug\Return_from_the_Klondike.Properties.Resources.resources
+H:\LF05 - Programmierung\repos\Return from the Klondike\Return from the Klondike\obj\Debug\Return from the Klondike.csproj.GenerateResource.cache
+H:\LF05 - Programmierung\repos\Return from the Klondike\Return from the Klondike\obj\Debug\Return from the Klondike.csproj.CoreCompileInputs.cache
+H:\LF05 - Programmierung\repos\Return from the Klondike\Return from the Klondike\bin\Debug\Return from the Klondike.exe.config
+H:\LF05 - Programmierung\repos\Return from the Klondike\Return from the Klondike\bin\Debug\Return from the Klondike.exe
+H:\LF05 - Programmierung\repos\Return from the Klondike\Return from the Klondike\bin\Debug\Return from the Klondike.pdb
+H:\LF05 - Programmierung\repos\Return from the Klondike\Return from the Klondike\obj\Debug\Return from the Klondike.exe
+H:\LF05 - Programmierung\repos\Return from the Klondike\Return from the Klondike\obj\Debug\Return from the Klondike.pdb
